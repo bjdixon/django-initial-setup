@@ -6,16 +6,16 @@ Setup a django project and first app with a few favorite 3rd party apps already 
 How to install
 --------------
 
-cd ~/sites\n
-mkdir project-name\n
-mkdir project-name/virtualenv\n
-mkdir project-name/database\n
-mkdir project-name/source\n
+cd ~/sites  
+
+mkdir project-name  
+mkdir project-name/virtualenv  
+mkdir project-name/database  
+mkdir project-name/source  
 
 git clone https://github.com/bjdixon/django-initial-setup.git ~/sites/project-name/source
 
-virtualenv -p python3 ./virtualenv
-
+virtualenv -p python3 ./virtualenv  
 source ./virtualenv/bin/activate
 
 cd source
@@ -27,8 +27,8 @@ python3 manage.py runserver
 Includes
 --------
 
-South
-Selenium
-Gunicorn
-Bootstrap (in sample app)
+South  
+Selenium  
+Gunicorn  
+Bootstrap (in sample app)  
 
