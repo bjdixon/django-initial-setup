@@ -24,6 +24,14 @@ pip install -r requirements.txt
 
 python3 manage.py runserver
 
+If you want to rename project_name and app_name  
+-----------------------------------------------
+mv project_name/ new_project_name/  
+mv app_name/ new_app_name/  
+
+find . -type f -print0 | xargs -0 sed -i 's/project_name/new_project_name/g'  
+find . -type f -print0 | xargs -0 sed -i 's/app_name/new_app_name/g'  
+
 Includes
 --------
 
