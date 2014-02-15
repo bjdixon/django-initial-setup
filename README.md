@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 python3 manage.py runserver
 
-If you want to rename project_name and app_name  
+Rename project_name and app_name  
 -----------------------------------------------
 mv project_name/ new_project_name/  
 mv app_name/ new_app_name/  
