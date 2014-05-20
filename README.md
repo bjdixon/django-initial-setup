@@ -39,4 +39,5 @@ South
 Selenium  
 Gunicorn  
 Bootstrap (in sample app)  
+django-braces
 
