@@ -6,3 +6,5 @@ selenium
 wsgiref==0.1.2
 django-secure
 django-braces
+django-simple-history
+
