@@ -39,5 +39,5 @@ South
 Selenium  
 Gunicorn  
 Bootstrap (in sample app)  
-django-braces
+django-braces  
 django-simple-history
