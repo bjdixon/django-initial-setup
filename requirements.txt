@@ -7,4 +7,6 @@ wsgiref==0.1.2
 django-secure
 django-braces
 django-simple-history
+pep8
+pyflakes
 
