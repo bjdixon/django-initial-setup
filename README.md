@@ -40,6 +40,6 @@ Selenium
 Gunicorn  
 Bootstrap (in sample app)  
 django-braces  
-django-simple-history 
+django-simple-history  
 pep8  
 pyflakes  
